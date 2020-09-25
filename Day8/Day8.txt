@@ -1,0 +1,4 @@
+UI/UX Complete
+Micro interactions
+advance prototyping
+DBMS Normalisation
