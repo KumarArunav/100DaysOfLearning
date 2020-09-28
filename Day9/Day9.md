@@ -4,7 +4,7 @@
 <br>
 
 <ul>
-    <li>Introduction to servlets</li>
+    <li> 🎯 Introduction to servlets</li>
         
 <li> 🎯 Introduction to servlets</li>
 <li> 🎯 Exploration of Dynamic Web Projects</li>
