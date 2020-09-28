@@ -13,8 +13,8 @@ User Experience Design Essentials - Adobe XD UI UX Design 🎯"</a>
         
 <li> 🎯 iphone mockup of instructor hq </li>
 
-<li>phone testing</li>
-<li>Top nav battery added iphone </li>
-<li>prototyping the iphone completely</li>
-<li> Dashboard and login page made in the iphone model<li>
+<li> 🎯 phone testing</li>
+<li> 🎯 Top nav battery added iphone </li>
+<li> 🎯 prototyping the iphone completely</li>
+<li> 🎯 Dashboard and login page made in the iphone model</li>
 </ul>
