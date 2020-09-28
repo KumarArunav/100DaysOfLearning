@@ -2,8 +2,14 @@
     <a href="https://www.youtube.com/watch?v=OuBUUkQfBYM">Servlets🎯"</a>
 </h1>
 <br>
-* Introduction to servlets
-* Exploration of Dynamic Web Projects
-* Creating a servlet
-* Calling a Servlet From another
-* GET/POST
+
+<ul>
+    <li>Introduction to servlets</li>
+        
+<li> 🎯 Introduction to servlets</li>
+<li> 🎯 Exploration of Dynamic Web Projects</li>
+<li> 🎯 Creating a servlet</li>
+<li> 🎯 Calling a Servlet From another</li>
+<li> 🎯 Passing Param</li>
+<li> 🎯 GET/POST</li>
+</ul>
