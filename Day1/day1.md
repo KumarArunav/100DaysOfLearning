@@ -10,10 +10,10 @@ User Experience Design Essentials - Adobe XD UI UX Design 🎯"</a>
 <ul>
     
         
-<li> 🎯 </li>
-<li> 🎯 </li>
-<li> 🎯 </li>
-<li> 🎯</li>
-<li> 🎯</li>
-<li> 🎯 </li>
+<li> 🎯 Understanding the client requirements</li>
+<li> 🎯 Framing the persona of the user </li>
+<li> 🎯 Wireframe creation for mobile and app - instructorHq</li>
+<li> 🎯 Prototyping</li>
+<li> 🎯 connecting the components</li>
+
 </ul>
