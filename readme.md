@@ -5,7 +5,7 @@
 
 <h2>Topics covered till now</h2>
 <ol>
-<h5><li> UI/UX using Adobe Xd <i>Completed</i> </li>
-<li> Data Structures <i>lifelong process </i> </li>
-<li> JSP Servlet <i>Ongoing</i></li>
+<h5><li> UI/UX using Adobe Xd - <i>Completed</i> </li>
+<li> Data Structures - <i>lifelong process </i> </li>
+<li> JSP Servlet - <i>Ongoing</i></li>
 </ol></h5>
