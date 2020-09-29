@@ -1,5 +1,5 @@
 <h1 align="center">
-    100 days learning challenge to take out time from daily monotonous routine of a developer and learn something new each day!🎯
+    JSP🎯
 </h1>
 <br>
 
