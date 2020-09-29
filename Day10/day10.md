@@ -4,7 +4,7 @@
 <br>
 
 <ul>
-  <li>SsendRedirect</li>
+  <li>sendRedirect</li>
   <li>sessions for redirecting and forwarding</li>
   <li>cookies</li>
   <li>annotations</li>
